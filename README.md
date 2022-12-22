@@ -9,7 +9,7 @@
   <p align="center">A sample application using NestJS + MongoDB.</p>
     <p align="center">
     
-## Description
+## 📝 Description
 
 This is a example of a CRUD using NestJS and MongoDB. With this code you'll be able to make GET, POST, PATCH and DELETE operations.
 
@@ -26,7 +26,7 @@ This is a example of a CRUD using NestJS and MongoDB. With this code you'll be a
 $ npm install
 ```
 
-## Running the app
+## 🚀 Running the app
 
 ```bash
 # development
