@@ -1,5 +1,5 @@
 import { Module } from '@nestjs/common';
-import { CustomersModule } from './customers/customers.module';
+import { CustomersModule } from './models/customers/customers.module';
 import { MongooseModule } from '@nestjs/mongoose';
 import { ConfigModule } from '@nestjs/config';
 import * as dotenv from 'dotenv';
